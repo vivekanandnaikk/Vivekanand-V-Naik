@@ -1,90 +1,33 @@
-# Hey, I'm Vivekanand Naik! 👋
+<p align="center">
+  <a href="https://github.com/vivekanandnaikk"><img src="./cards/hero.svg" width="100%" alt="Vivekanand Naik — Software Engineer at Oneness InfraTech, Bangalore" /></a>
+</p>
 
-### Software Engineer | Electronics & Communication Graduate
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivekanand-naik">LinkedIn</a> ·
+  <a href="https://github.com/vivekanandnaikk">GitHub</a>
+</p>
 
-I'm a Software Engineer at **Oneness InfraTech, Bangalore**, with a background in Electronics & Communication Engineering. I work on technology-driven software solutions supporting infrastructure development, engineering, surveying, GIS and digital mapping applications.
+I’m a Software Engineer at **Oneness InfraTech, Bangalore**, and an Electronics & Communication Engineering graduate from **KLE Technological University**. I work on software solutions for infrastructure, engineering, surveying, GIS, and digital mapping, and enjoy exploring how software connects with embedded systems and real-world engineering.
 
-With an interest in software engineering and emerging technologies, I enjoy exploring the intersection of software, embedded systems, automotive technologies and real-world engineering applications.
+### About me
 
-### 💻 About Me
+- 🚗 Interested in ADAS, automotive software, and Software Defined Vehicles.
+- 🤖 Exploring computer vision, object detection, and machine learning.
+- 🗺️ Interested in GIS integration, geospatial technologies, and digital infrastructure.
+- 🌱 Focused on continuous learning and practical software development.
 
-- 👨‍💻 Software Engineer at Oneness InfraTech.
-- 🎓 Electronics & Communication Engineering graduate from KLE Technological University.
-- 🚗 Interested in ADAS, Automotive Software and Software Defined Vehicles.
-- 🤖 Exploring Computer Vision, Object Detection and Machine Learning.
-- 🗺️ Interested in GIS integration, Geospatial Technologies and Digital Infrastructure.
-- 🌱 Focused on continuous learning, technical development and building practical software solutions.
+<p><img src="./cards/toolbox.svg" width="100%" alt="Technical toolbox: C, C++, Python, embedded and automotive systems, computer vision, GIS, and engineering tools" /></p>
 
-### 🛠️ Technical Skills
+### Areas of interest
 
-**Programming & Software Development**
-- C, C++, Python
-- Application Development
-- Debugging & Problem Solving
+Software engineering · Embedded software · Automotive electronics / AUTOSAR · ADAS · Computer vision and sensor fusion · GIS and geospatial technologies · Artificial intelligence and machine learning
 
-**Embedded & Automotive Technologies**
-- Embedded Systems
-- ADAS
-- AUTOSAR & RTOS
-- CAN & LIN Protocols
-- ARM Architecture
-- Hardware-Software Integration
+<p><img src="./cards/projects.svg" width="100%" alt="Selected projects: Invisible Virtual Pen, LiDAR and camera sensor fusion, traffic sign recognition, and face recognition" /></p>
 
-**Computer Vision & AI**
-- OpenCV
-- Object Detection
-- Image Processing
-- Machine Learning Fundamentals
-- LiDAR-Based Object Detection
+### Currently exploring
 
-**GIS & Infrastructure Technologies**
-- GIS Integration
-- Geospatial Mapping
-- ArcGIS
-- Digital Mapping
-- Surveying Technologies
-
-**Tools & Platforms**
-- MATLAB & Simulink
-- ARTOP
-- Git & GitHub
-- VS Code
-- Google Colab
-
-**Operating Systems**
-- Linux
-- Windows
-
-### 🎯 Areas of Interest
-
-- Software Engineering & Application Development
-- Advanced Driver Assistance Systems (ADAS)
-- Embedded Software Development
-- Automotive Electronics & AUTOSAR
-- Computer Vision & Sensor Fusion
-- GIS & Geospatial Technologies
-- Artificial Intelligence & Machine Learning
-
-### 🚀 Featured Projects
-
-- **Invisible Virtual Pen** – Real-time hand gesture recognition and virtual drawing using Python, OpenCV and MediaPipe.
-- **LiDAR & Camera Sensor Fusion** – 3D object detection and Bird's Eye View (BEV) visualization for ADAS applications.
-- **Traffic Sign Recognition** – Real-time traffic sign detection using YOLO and Raspberry Pi.
-- **Face Recognition System** – Computer vision-based face detection and recognition using Raspberry Pi.
-
-### 📚 Currently Exploring
-
-- Advanced C++ and Python
-- Software Development Best Practices
-- Embedded Automotive Software
-- Computer Vision & Deep Learning
-- Git, GitHub and Collaborative Development
-
-### 🤝 Connect With Me
-
-- **LinkedIn:** [vivekanandnaik](www.linkedin.com/in/vivekanand-naik)
-- **GitHub:** [vivekanandnaikk](https://github.com/vivekanandnaikk)
+Advanced C++ and Python · Software development practices · Embedded automotive software · Computer vision and deep learning · Git and collaborative development
 
 ---
 
-⭐ *Building solutions, exploring technologies and learning something new every day.*
+⭐ *Building solutions, exploring technologies, and learning something new every day.*
