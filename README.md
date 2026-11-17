@@ -22,7 +22,9 @@ I’m a Software Engineer at **Oneness InfraTech, Bangalore**, and an Electronic
 
 Software engineering · Embedded software · Automotive electronics / AUTOSAR · ADAS · Computer vision and sensor fusion · GIS and geospatial technologies · Artificial intelligence and machine learning
 
-<p><img src="./cards/projects.svg" width="100%" alt="Selected projects: Invisible Virtual Pen, LiDAR and camera sensor fusion, traffic sign recognition, and face recognition" /></p>
+### Featured projects
+
+<p><img src="./cards/projects.svg" width="100%" alt="Featured projects: real-time 3D LiDAR object detection for ADAS, Raspberry Pi traffic sign recognition, vehicle accident alerts, and secure radar data communication" /></p>
 
 ### Currently exploring
 
