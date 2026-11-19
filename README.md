@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/vivekanandnaikk">
-  <img src="./cards/hero.svg" width="100%" alt="Vivekanand Naik — Software Developer building at the intersection of hardware and software" />
+  <img src="./cards/hero.svg" width="100%" alt="Vivekanand Naik — Software Engineer building at the intersection of hardware and software" />
 </a>
 
 <br/><br/>
@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Hello, I'm Vivekanand
 
-I'm an **Electronics & Communication Engineering graduate** from **KLE Technological University**, currently working as a **Software Developer at Oneness InfraTech**.
+I'm an **Electronics & Communication Engineering graduate** from **KLE Technological University**, currently working as a **Software Engineer at Oneness InfraTech**.
 
 I build where **software meets the physical world**—from embedded devices and automotive perception systems to computer vision, radar, and audio signal processing.
 
