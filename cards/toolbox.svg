@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
   <title id="title">Technical areas and tools</title>
-  <desc id="desc">Programming with C, C++, and Python; embedded and automotive systems; computer vision; GIS; and engineering tools.</desc>
+  <desc id="desc">Programming in C, C++, and Python; computer vision; embedded systems; signal processing; MATLAB; NumPy; Linux; and engineering tools.</desc>
   <rect x="1" y="1" width="958" height="308" rx="20" fill="#111318" stroke="#394150" stroke-width="2"/>
   <text x="34" y="48" fill="#54d6b5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">TECHNICAL TOOLBOX</text>
   <g font-family="Arial,sans-serif">
     <text x="34" y="102" fill="#f3f6fb" font-size="19" font-weight="700">PROGRAMMING</text>
-    <text x="34" y="135" fill="#c4cbd6" font-size="17">C · C++ · Python · Application development</text>
-    <text x="34" y="165" fill="#c4cbd6" font-size="17">Debugging · Problem solving</text>
-    <text x="34" y="220" fill="#f3f6fb" font-size="19" font-weight="700">EMBEDDED &amp; AUTOMOTIVE</text>
-    <text x="34" y="253" fill="#c4cbd6" font-size="17">ADAS · AUTOSAR · RTOS · CAN / LIN · ARM</text>
-    <text x="510" y="102" fill="#f3f6fb" font-size="19" font-weight="700">VISION, AI &amp; GEOSPATIAL</text>
-    <text x="510" y="135" fill="#c4cbd6" font-size="17">OpenCV · Object detection · Image processing</text>
-    <text x="510" y="165" fill="#c4cbd6" font-size="17">LiDAR · GIS · ArcGIS · Digital mapping</text>
+    <text x="34" y="135" fill="#c4cbd6" font-size="17">C · C++ · Python</text>
+    <text x="34" y="165" fill="#c4cbd6" font-size="17">Problem solving · Software development</text>
+    <text x="34" y="220" fill="#f3f6fb" font-size="19" font-weight="700">EMBEDDED SYSTEMS</text>
+    <text x="34" y="253" fill="#c4cbd6" font-size="17">Arduino · Raspberry Pi · Linux · ADAS</text>
+    <text x="510" y="102" fill="#f3f6fb" font-size="19" font-weight="700">VISION &amp; SIGNAL PROCESSING</text>
+    <text x="510" y="135" fill="#c4cbd6" font-size="17">OpenCV · YOLOv5 · MediaPipe</text>
+    <text x="510" y="165" fill="#c4cbd6" font-size="17">MATLAB · NumPy · FFT · MFCC</text>
     <text x="510" y="220" fill="#f3f6fb" font-size="19" font-weight="700">TOOLS &amp; PLATFORMS</text>
-    <text x="510" y="253" fill="#c4cbd6" font-size="17">MATLAB / Simulink · ARTOP · Git · Linux</text>
+    <text x="510" y="253" fill="#c4cbd6" font-size="17">VS Code · Git · GitHub · Google Colab</text>
   </g>
   <path d="M480 72v200" stroke="#394150" stroke-width="1"/>
 </svg>
