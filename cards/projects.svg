@@ -1,32 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="492" viewBox="0 0 960 492" role="img" aria-labelledby="title desc">
-  <title id="title">Featured projects</title>
-  <desc id="desc">Engine fault diagnosis, 3D LiDAR object detection, traffic sign recognition, secure radar data systems and vehicle accident alerts.</desc>
-  <rect x="1" y="1" width="958" height="490" rx="20" fill="#111318" stroke="#394150" stroke-width="2"/>
-  <text x="34" y="48" fill="#54d6b5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">FEATURED PROJECTS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Featured engineering projects</title>
+  <desc id="desc">Engine fault diagnosis, LiDAR object detection, traffic sign recognition, secure radar systems and a vehicle accident alert system.</desc>
+  <rect x="1" y="1" width="958" height="498" rx="22" fill="#111318" stroke="#394150" stroke-width="2"/>
+  <text x="34" y="48" fill="#54d6b5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">SELECTED ENGINEERING WORK</text>
   <g font-family="Arial,sans-serif">
-    <rect x="34" y="72" width="432" height="116" rx="12" fill="#191e26"/>
-    <text x="54" y="102" fill="#54d6b5" font-size="13" font-weight="700">01 · AUDIO / DSP</text>
-    <text x="54" y="130" fill="#f3f6fb" font-size="18" font-weight="700">Engine Fault Diagnosis</text>
-    <text x="54" y="156" fill="#aab3c2" font-size="15">FFT · Hann window · MFCC · Python · MATLAB</text>
+    <rect x="34" y="72" width="432" height="116" rx="14" fill="#191e26" stroke="#242b36"/>
+    <circle cx="67" cy="105" r="13" fill="#54d6b5"/><text x="67" y="110" text-anchor="middle" fill="#111318" font-size="12" font-weight="700">01</text>
+    <text x="94" y="102" fill="#54d6b5" font-size="12" font-weight="700">AUDIO · DSP</text>
+    <text x="94" y="130" fill="#f3f6fb" font-size="17" font-weight="700">Engine Fault Diagnosis</text>
+    <text x="94" y="158" fill="#aab3c2" font-size="14">FFT · Hann window · MFCC · Python · MATLAB</text>
 
-    <rect x="494" y="72" width="432" height="116" rx="12" fill="#191e26"/>
-    <text x="514" y="102" fill="#54d6b5" font-size="13" font-weight="700">02 · ADAS / LIDAR</text>
-    <text x="514" y="130" fill="#f3f6fb" font-size="18" font-weight="700">3D LiDAR Object Detection</text>
-    <text x="514" y="156" fill="#aab3c2" font-size="15">BEV mapping · Camera projection · SFA3D</text>
+    <rect x="494" y="72" width="432" height="116" rx="14" fill="#191e26" stroke="#242b36"/>
+    <circle cx="527" cy="105" r="13" fill="#76a7fa"/><text x="527" y="110" text-anchor="middle" fill="#111318" font-size="12" font-weight="700">02</text>
+    <text x="554" y="102" fill="#76a7fa" font-size="12" font-weight="700">ADAS · LiDAR</text>
+    <text x="554" y="130" fill="#f3f6fb" font-size="17" font-weight="700">3D LiDAR Object Detection</text>
+    <text x="554" y="158" fill="#aab3c2" font-size="14">BEV · Camera projection · Python · SFA3D</text>
 
-    <rect x="34" y="204" width="432" height="116" rx="12" fill="#191e26"/>
-    <text x="54" y="234" fill="#54d6b5" font-size="13" font-weight="700">03 · COMPUTER VISION</text>
-    <text x="54" y="262" fill="#f3f6fb" font-size="18" font-weight="700">Traffic Sign Recognition</text>
-    <text x="54" y="288" fill="#aab3c2" font-size="15">YOLOv5 · OpenCV · Raspberry Pi 4 · HMI</text>
+    <rect x="34" y="204" width="432" height="116" rx="14" fill="#191e26" stroke="#242b36"/>
+    <circle cx="67" cy="237" r="13" fill="#54d6b5"/><text x="67" y="242" text-anchor="middle" fill="#111318" font-size="12" font-weight="700">03</text>
+    <text x="94" y="234" fill="#54d6b5" font-size="12" font-weight="700">COMPUTER VISION</text>
+    <text x="94" y="262" fill="#f3f6fb" font-size="17" font-weight="700">Traffic Sign Recognition</text>
+    <text x="94" y="290" fill="#aab3c2" font-size="14">YOLOv5 · OpenCV · Raspberry Pi · HMI</text>
 
-    <rect x="494" y="204" width="432" height="116" rx="12" fill="#191e26"/>
-    <text x="514" y="234" fill="#54d6b5" font-size="13" font-weight="700">04 · RADAR / SECURITY</text>
-    <text x="514" y="262" fill="#f3f6fb" font-size="18" font-weight="700">Secure Radar Data Systems</text>
-    <text x="514" y="288" fill="#aab3c2" font-size="15">ESP32 · AWR1243 · AES-128 · Wi-Fi · UDP</text>
+    <rect x="494" y="204" width="432" height="116" rx="14" fill="#191e26" stroke="#242b36"/>
+    <circle cx="527" cy="237" r="13" fill="#76a7fa"/><text x="527" y="242" text-anchor="middle" fill="#111318" font-size="12" font-weight="700">04</text>
+    <text x="554" y="234" fill="#76a7fa" font-size="12" font-weight="700">RADAR · SECURITY</text>
+    <text x="554" y="262" fill="#f3f6fb" font-size="17" font-weight="700">Secure Radar Data Systems</text>
+    <text x="554" y="290" fill="#aab3c2" font-size="14">ESP32 · AWR1243 · AES-128 · Wi-Fi · UDP</text>
 
-    <rect x="34" y="336" width="432" height="116" rx="12" fill="#191e26"/>
-    <text x="54" y="366" fill="#54d6b5" font-size="13" font-weight="700">05 · EMBEDDED SAFETY</text>
-    <text x="54" y="394" fill="#f3f6fb" font-size="18" font-weight="700">Vehicle Accident Alert</text>
-    <text x="54" y="420" fill="#aab3c2" font-size="15">Arduino · GPS · MQ-3 · Python · Emergency alerts</text>
+    <rect x="34" y="336" width="432" height="116" rx="14" fill="#191e26" stroke="#242b36"/>
+    <circle cx="67" cy="369" r="13" fill="#54d6b5"/><text x="67" y="374" text-anchor="middle" fill="#111318" font-size="12" font-weight="700">05</text>
+    <text x="94" y="366" fill="#54d6b5" font-size="12" font-weight="700">EMBEDDED SAFETY</text>
+    <text x="94" y="394" fill="#f3f6fb" font-size="17" font-weight="700">Vehicle Accident Alert</text>
+    <text x="94" y="422" fill="#aab3c2" font-size="14">Arduino · GPS · MQ-3 · Python · Alerts</text>
+
+    <rect x="494" y="336" width="432" height="116" rx="14" fill="#191e26" stroke="#242b36"/>
+    <circle cx="527" cy="369" r="13" fill="#76a7fa"/><text x="527" y="374" text-anchor="middle" fill="#111318" font-size="12" font-weight="700">→</text>
+    <text x="554" y="366" fill="#76a7fa" font-size="12" font-weight="700">NEXT FRONTIER</text>
+    <text x="554" y="394" fill="#f3f6fb" font-size="17" font-weight="700">Build · Measure · Improve</text>
+    <text x="554" y="422" fill="#aab3c2" font-size="14">ADAS · Firmware · Fusion · Real-time systems</text>
   </g>
 </svg>

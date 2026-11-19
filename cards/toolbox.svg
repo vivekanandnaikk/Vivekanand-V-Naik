@@ -1,26 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
-  <title id="title">Technical expertise</title>
-  <desc id="desc">C, C++, Python, OpenCV, YOLOv5, MediaPipe, Arduino, Raspberry Pi, MATLAB, NumPy, FFT, MFCC, Linux, VS Code, Git, GitHub and Google Colab.</desc>
-  <rect x="1" y="1" width="958" height="308" rx="20" fill="#111318" stroke="#394150" stroke-width="2"/>
-  <text x="34" y="48" fill="#54d6b5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">TECHNICAL EXPERTISE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
+  <title id="title">Technical toolbox</title>
+  <desc id="desc">Programming, computer vision, embedded systems, signal processing, Linux and software development tools.</desc>
+  <rect x="1" y="1" width="958" height="328" rx="22" fill="#111318" stroke="#394150" stroke-width="2"/>
+  <text x="34" y="48" fill="#54d6b5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">TECHNICAL TOOLBOX</text>
   <g font-family="Arial,sans-serif">
-    <text x="34" y="98" fill="#f3f6fb" font-size="18" font-weight="700">PROGRAMMING</text>
-    <text x="34" y="132" fill="#c4cbd6" font-size="17">C · C++ · Python</text>
-    <rect x="34" y="154" width="148" height="32" rx="16" fill="#191e26"/><text x="108" y="175" text-anchor="middle" fill="#54d6b5" font-size="14">Linux</text>
+    <text x="34" y="94" fill="#f3f6fb" font-size="17" font-weight="700">01 · SOFTWARE</text>
+    <text x="34" y="126" fill="#c4cbd6" font-size="16">C · C++ · Python</text>
+    <text x="34" y="154" fill="#aab3c2" font-size="15">Linux · VS Code · Git · GitHub</text>
 
-    <text x="34" y="220" fill="#f3f6fb" font-size="18" font-weight="700">EMBEDDED</text>
-    <text x="34" y="253" fill="#c4cbd6" font-size="17">Arduino · Raspberry Pi</text>
+    <text x="34" y="205" fill="#f3f6fb" font-size="17" font-weight="700">02 · EMBEDDED</text>
+    <text x="34" y="237" fill="#c4cbd6" font-size="16">Arduino · Raspberry Pi</text>
+    <text x="34" y="265" fill="#aab3c2" font-size="15">Firmware · Real-time applications</text>
 
-    <text x="510" y="98" fill="#f3f6fb" font-size="18" font-weight="700">COMPUTER VISION</text>
-    <text x="510" y="132" fill="#c4cbd6" font-size="17">OpenCV · YOLOv5 · MediaPipe</text>
+    <text x="510" y="94" fill="#f3f6fb" font-size="17" font-weight="700">03 · COMPUTER VISION</text>
+    <text x="510" y="126" fill="#c4cbd6" font-size="16">OpenCV · YOLOv5 · MediaPipe</text>
+    <text x="510" y="154" fill="#aab3c2" font-size="15">Object detection · Sensor fusion</text>
 
-    <text x="510" y="220" fill="#f3f6fb" font-size="18" font-weight="700">SIGNAL PROCESSING</text>
-    <text x="510" y="253" fill="#c4cbd6" font-size="17">MATLAB · NumPy · FFT · MFCC</text>
+    <text x="510" y="205" fill="#f3f6fb" font-size="17" font-weight="700">04 · SIGNAL PROCESSING</text>
+    <text x="510" y="237" fill="#c4cbd6" font-size="16">MATLAB · NumPy · FFT · MFCC</text>
+    <text x="510" y="265" fill="#aab3c2" font-size="15">Audio analysis · DSP · Radar</text>
   </g>
-  <g font-family="Arial,sans-serif" font-size="14" fill="#c4cbd6">
-    <rect x="510" y="154" width="108" height="32" rx="16" fill="#191e26"/><text x="564" y="175" text-anchor="middle">VS Code</text>
-    <rect x="628" y="154" width="92" height="32" rx="16" fill="#191e26"/><text x="674" y="175" text-anchor="middle">Git</text>
-    <rect x="730" y="154" width="196" height="32" rx="16" fill="#191e26"/><text x="828" y="175" text-anchor="middle">GitHub · Colab</text>
-  </g>
-  <path d="M480 72v200" stroke="#394150" stroke-width="1"/>
+  <path d="M480 70v230" stroke="#394150" stroke-width="1"/>
+  <path d="M34 176h412M510 176h416" stroke="#394150" stroke-width="1"/>
 </svg>
