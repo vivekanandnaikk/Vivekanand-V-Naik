@@ -34,14 +34,9 @@ I build where **software meets the physical world**—from embedded devices and 
   <img src="./cards/toolbox.svg" width="100%" alt="Technical toolbox of Vivekanand Naik" />
 </div>
 
-<table width="100%">
-  <colgroup>
-    <col width="33.33%" />
-    <col width="33.33%" />
-    <col width="33.34%" />
-  </colgroup>
+<table width="100%" align="center">
   <tr>
-    <td valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
 
 ### 💻 Software
 
@@ -52,7 +47,7 @@ Linux · VS Code · Git
 Google Colab · GitHub
 
 </td>
-    <td valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
 
 ### 🤖 Perception
 
@@ -63,7 +58,7 @@ MediaPipe · Sensor Fusion
 Object Detection · LiDAR
 
 </td>
-    <td valign="top" align="center">
+    <td width="33.34%" valign="top" align="center">
 
 ### 🔧 Embedded &amp; DSP
 
