@@ -1,41 +1,88 @@
-<p align="center">
-  <a href="https://github.com/vivekanandnaikk"><img src="./cards/hero.svg" width="100%" alt="Vivekanand Naik — Electronics and Communication Graduate and Software Developer specializing in Embedded Systems and ADAS" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivekanand-naik">LinkedIn</a> ·
-  <a href="https://bio.site/vivekanandnaik">Portfolio</a> ·
-  <a href="https://github.com/vivekanandnaikk">GitHub</a>
-</p>
+<a href="https://github.com/vivekanandnaikk">
+  <img src="./cards/hero.svg" width="100%" alt="Vivekanand Naik — Software Developer, Embedded Systems & ADAS" />
+</a>
 
-I’m an Electronics & Communication Engineering graduate from **KLE Technological University**, currently working as a **Software Developer at Oneness InfraTech**.
+<br/> 
 
-I enjoy building software solutions and exploring the intersection of hardware and software, with a particular interest in **Embedded Systems, ADAS, Automotive Software, Computer Vision and Signal Processing**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekanand-naik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111318?style=for-the-badge&logo=googlechrome&logoColor=54d6b5)](https://bio.site/vivekanandnaik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekanandnaikk)
 
-My projects reflect my interest in practical engineering, problem-solving and continuous learning.
+</div>
 
-### About me
+## 👋 About Me
 
-- 🔌 Exploring embedded systems and firmware development.
-- 🚗 Interested in ADAS, automotive software, and Software Defined Vehicles.
-- 🤖 Working with computer vision, object detection, and sensor fusion.
-- 🔊 Exploring DSP, audio signal analysis, and signal processing.
-- 🌱 Focused on continuous learning and practical problem-solving.
+I’m an **Electronics & Communication Engineering graduate** from **KLE Technological University**, currently working as a **Software Developer at Oneness InfraTech**.
 
-<p><img src="./cards/toolbox.svg" width="100%" alt="Technical skills: C, C++, Python, OpenCV, YOLOv5, MediaPipe, Arduino, Raspberry Pi, MATLAB, NumPy, FFT, MFCC, Linux, VS Code, Git, GitHub, and Google Colab" /></p>
+I enjoy building software solutions and exploring the intersection of **hardware and software**—with a particular focus on **Embedded Systems, ADAS, Automotive Software, Computer Vision and Signal Processing**.
 
-### Areas of interest
+> My work reflects a passion for practical engineering, continuous learning and solving real-world problems.
 
-Software engineering · Embedded systems · ADAS · Automotive software · Computer Vision · Signal processing · Sensor fusion · Perception systems · Real-time applications
+<br/>
 
-### Featured projects
+## 🧰 Technical Expertise
 
-<p><img src="./cards/projects.svg" width="100%" alt="Featured projects: engine fault diagnosis using audio signal processing, 3D LiDAR object detection, traffic sign recognition, secure radar data systems, and vehicle accident alerts" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top"><img src="./cards/toolbox.svg" width="100%" alt="Technical skills and development tools" /></td>
+    <td width="50%" valign="top">
 
-### Currently exploring
+### Core Skills
 
-Advanced Driver Assistance Systems (ADAS) · Embedded C/C++ and firmware development · Automotive software and Software Defined Vehicles · Sensor fusion and perception systems · Computer vision and real-time applications
+- **Languages:** C, C++, Python
+- **Computer Vision:** OpenCV, YOLOv5, MediaPipe
+- **Embedded:** Arduino, Raspberry Pi, Linux
+- **Signal Processing:** MATLAB, NumPy, FFT, MFCC
+- **Workflow:** VS Code, Git, GitHub, Google Colab
 
----
+### Focus Areas
 
-⭐ *Building. Experimenting. Learning. Growing.*
+`ADAS` `Embedded C/C++` `Automotive Software` `Sensor Fusion` `Computer Vision` `DSP` `Real-Time Systems`
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="./cards/projects.svg" width="100%" alt="Featured engineering projects" />
+</div>
+
+| Project | Description | Technology |
+|:--|:--|:--|
+| [Engine Fault Diagnosis](https://github.com/vivekanandnaikk/Engine-Fault-Diagnosis-Using-Audio-Signal-Processing) | DSP-based comparison of normal and faulty motorcycle engine recordings using FFT, Hann windowing and MFCC extraction. | Python · MATLAB · NumPy · DSP |
+| [Real-Time 3D LiDAR Detection](https://github.com/vivekanandnaikk/Real-Time-3D-LiDAR-Based-Object-Detection) | LiDAR-based 3D object detection for ADAS, including BEV mapping and camera-image projection. | Python · LiDAR · Computer Vision · SFA3D |
+| [Traffic Sign Recognition](https://github.com/vivekanandnaikk/Traffic-Sign-Recognition-System) | Real-time traffic sign detection and recognition with Raspberry Pi deployment and HMI integration. | Python · YOLOv5 · OpenCV · Raspberry Pi 4 |
+| [Secure Radar Data Systems](https://github.com/vivekanandnaikk/Pioneering-Secure-Radar-Data-Systems) | Radar distance measurement with encrypted wireless data communication. | ESP32 · Radar · AES-128 · Wi-Fi · UDP |
+| [Vehicle Accident Alert](https://github.com/vivekanandnaikk/Vehicle-Accident-Alert-System) | Automotive safety prototype for vibration, alcohol, GPS and emergency notifications. | Arduino Uno · Python · GPS · MQ-3 |
+
+<br/>
+
+## 🔭 Currently Exploring
+
+- Advanced Driver Assistance Systems (ADAS)
+- Embedded C/C++ and firmware development
+- Automotive software and Software Defined Vehicles
+- Sensor fusion and perception systems
+- Computer vision and real-time applications
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivekanand_Naik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekanand-naik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bio.site-54d6b5?style=flat-square&logo=googlechrome&logoColor=111318)](https://bio.site/vivekanandnaik)
+[![GitHub](https://img.shields.io/badge/GitHub-%40vivekanandnaikk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vivekanandnaikk)
+
+<br/>
+
+*Building. Experimenting. Learning. Growing.*
+
+</div>
