@@ -1,9 +1,14 @@
 
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
 site:
-  title: "VN Engineering Labs"
-  description: "Engineering Projects, Research and Technical Documentation"
+  title: VN Engineering Labs
+  structure:
+    - type: space
+      key: vn-engineering-labs
+      title: VN Engineering Labs
+      path: docs
+      default: true
+      content:
+        directory: ./
 
-root: ./
-
-structure:
-  readme: README.md
