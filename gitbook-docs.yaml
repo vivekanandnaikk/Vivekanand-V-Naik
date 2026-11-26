@@ -1,4 +1,8 @@
 
+site:
+  title: "VN Engineering Labs"
+  description: "Engineering Projects, Research and Technical Documentation"
+
 root: ./
 
 structure:
